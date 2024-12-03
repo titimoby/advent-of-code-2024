@@ -32,3 +32,4 @@ for report in reports:
 
 
 print("Safe:", safe)
+# 520
